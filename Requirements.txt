@@ -1,0 +1,15 @@
+Tools
+
+This section outlines the tools and technologies used in the development of the Stop Sign Detection System utilizing traditional machine learning algorithms.
+
+1.Programming Language: Python
+Chosen for its extensive libraries and frameworks for machine learning, data processing, and computer vision.
+
+2.Feature Extraction: HOG (Histogram of Oriented Gradients)
+Utilized for extracting key features from images to enable effective stop sign detection.
+
+3.IDE: Google Colab
+A cloud-based development environment used for writing, testing, and running Python code with access to free GPU resources.
+
+4.Project Hosting: GitHub
+Used for version control, collaboration, and hosting the project repository for public access and contributions.
