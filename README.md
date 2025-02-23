@@ -29,5 +29,5 @@ This project aims to develop a machine learning model capable of detecting stop 
 - **Irfan Shah Mayeen** (irfan52660@gmail.com)
 - **Abu Yousuf Neshad**
 - **Al Amin**
-- **Mubasshir Sadatt**
+- **Mubasshir Sadat**
 
