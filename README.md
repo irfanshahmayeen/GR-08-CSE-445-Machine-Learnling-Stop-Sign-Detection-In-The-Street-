@@ -26,8 +26,8 @@ This project aims to develop a machine learning model capable of detecting stop 
 - Optimize inference speed for real-time applications.
 
 ## Contributors
-- **Irfan Shah Mayeen** (irfan52660@gmail.com)
-- **Abu Yousuf Neshad**
-- **Al Amin**
-- **Mubasshir Sadat**
+- **Irfan Shah Mayeen** (irfan.mayeen@northsouth.edu)
+- **Abu Yousuf Neshad** (abu.neshad@northsouth.edu)
+- **Al Amin** (al.amin22@northsouth.edu)
+- **Mubasshir Sadat** (mubasshir.sadat@northsouth.edu)
 
